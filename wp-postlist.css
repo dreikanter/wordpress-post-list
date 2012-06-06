@@ -1,0 +1,27 @@
+/* WP Posts List */
+
+/* This is an optional CSS code which may be used 
+to control WPPL page appearance. It should be placed in common 
+stylesheet file of active Wordpress theme if needed. */
+
+/* tag cloud container */
+.pl_cloud { margin:1.5em 2em 3em 2em; }
+/* category anchors list container */
+.pl_contents { margin:1.5em 2em 3em 2em; }
+/* category title */
+.pl_cat_title {  }
+/* prefix for category title */
+.pl_prefix { color:silver; }
+/* posts counter in category title */
+.pl_cnt { color:silver; }
+/* posts list */
+.pl_postlist ul {  }
+/* post date */
+.pl_date { color:silver; }
+/* "view all" links for tag cloud and post lists */
+.pl_expand { font-size:.7em; }
+.pl_expand a, .pl_expand a:visited { color:gray; }
+.pl_cloud .pl_expand { margin:1em 0 0 0; }
+.pl_postlist .pl_expand { margin:1em 0 2em 2em; }
+
+/* / WP Posts List  */
